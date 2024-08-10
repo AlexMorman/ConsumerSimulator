@@ -1,1 +1,1 @@
-This repo will contain components for use with my homelab
+This repo contains a consumer simulator for use with my homelab
