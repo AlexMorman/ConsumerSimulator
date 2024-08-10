@@ -11,6 +11,7 @@ public class ConsumerSimulatorApplication
 {
 	public static void main(String[] args) throws SchedulerException
 	{
+		// I have added an additional comment
 		Logger logger = Logger.getLogger(SimpleJob.class.getName());
 		SchedulerFactory schedulerFactory = new StdSchedulerFactory();
 		Scheduler scheduler = schedulerFactory.getScheduler();
